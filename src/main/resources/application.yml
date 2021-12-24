@@ -1,0 +1,10 @@
+server:
+  port: 9580
+spring:
+  application:
+    name: xyp
+  profiles:
+    active: test
+
+app:
+  id: learn
